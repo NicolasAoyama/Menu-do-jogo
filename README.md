@@ -1,2 +1,2 @@
-# Menu-do-jogo
-Versoes do menu de um jogo que estamos desenvolvendo
+# A vinganca de Barglot
+Jogo desenvolvido do zero em C para o Arduino UNO como projeto da faculdade.
